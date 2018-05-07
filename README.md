@@ -4,7 +4,7 @@
 
 3. PHP code is provided with the repository.
 
-4. Java code is written below.
+4. Java code is written below(https://documentation.payubiz.in/hosted-page-copy/#1469526385119-2f6ffb15-c0c8).
 
 String hashSequence = "key|txnid|amount|productinfo|firstname|email|udf1|udf2|udf3|udf4|udf5|udf6|udf7|udf8|udf9|udf10";
 if (empty(params.get("hash")) &amp;&amp; params.size() &gt; 0) {
