@@ -1,10 +1,10 @@
-Go to https://test.payumoney.com/ and sign up as a merchant account.
+1. Go to https://test.payumoney.com/ and sign up as a merchant account.
 
-Merchant -Key and Salt copy your key and paste in your code
+2. Merchant -Key and Salt copy your key and paste in your code
 
-PHP code is provided with the repository.
+3. PHP code is provided with the repository.
 
-Java code is written below.
+4. Java code is written below.
 
 String hashSequence = "key|txnid|amount|productinfo|firstname|email|udf1|udf2|udf3|udf4|udf5|udf6|udf7|udf8|udf9|udf10";
 if (empty(params.get("hash")) &amp;&amp; params.size() &gt; 0) {
